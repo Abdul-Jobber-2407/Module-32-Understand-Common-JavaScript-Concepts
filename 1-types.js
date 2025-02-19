@@ -4,7 +4,7 @@
 // bool c = True ;
 // object student = {name:'Abdul JObber', id= 100};
 //int[] numbers = [12,3,44,5,];
-// string[] brothers= ['Gaffer', 'Golam Morshed', 'Shaharia', 'Jahid'];\
+// string[] brothers= ['Gaffer', 'Golam Morshed', 'Shaharia', 'Jahid'];
 
 
 //  JavaScript is a dynamic typed language;
